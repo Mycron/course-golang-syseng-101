@@ -52,7 +52,7 @@ return nil
 Note that defer is a statement that delays function call and arguments to this call. The actual call and argument resolving will happen "during" `return` statement
 
 
-### Slices and arrays. Mechanincs and difference
+### Slices and arrays. Mechanics and difference
 
 Both arrays and slices represent solid piece of memory.
 Arrays is static structure points to fixed amount of memory, while slice is dynamic and can point to flexible amount of memory.
